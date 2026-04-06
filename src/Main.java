@@ -201,7 +201,6 @@ void main() {
             case 7:
                 System.out.println("Saliendo del programa");
                 break;
-
         }
     } while (opciones != 7);
 }
